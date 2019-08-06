@@ -1,0 +1,3 @@
+# getJdProductData
+基于BeautifulSoup进行数据爬取,在其基础上加入了多线程，加速爬取
+还未实现获取商品的图片信息
